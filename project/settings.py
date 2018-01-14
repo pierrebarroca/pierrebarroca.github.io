@@ -2,7 +2,7 @@
 
 import os
 
-REPO_NAME = "pierrebarroca.github.io"  # Used for FREEZER_BASE_URL
+REPO_NAME = "blog"  # Used for FREEZER_BASE_URL
 DEBUG = True
 
 # Assumes the app is located in the same directory
